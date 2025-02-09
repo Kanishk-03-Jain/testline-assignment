@@ -122,7 +122,7 @@ This step predicts a student’s potential NEET rank using machine learning.
     Root Mean Squared Error (RMSE): 80.95382506610757
 ```
 
-[model_curve](https://github.com/Kanishk-03-Jain/testline-assignment/blob/main/model_curve.png)
+![model_curve](https://github.com/Kanishk-03-Jain/testline-assignment/blob/main/model_curve.png)
 
 ## Future Enhancements
 - Adaptive Learning Paths – Suggest personalized study plans.
