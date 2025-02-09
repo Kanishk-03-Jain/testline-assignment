@@ -128,7 +128,7 @@ This step predicts a student’s potential NEET rank using machine learning.
 
 ```sh
     Mean Absolute Error (MAE): 6553.521792833945
-    Root Mean Squared Error (RMSE): 80.95382506610757
+    Root Mean Squared Error (RMSE): 21023.516017535505
 ```
 
 ![model_curve](https://github.com/Kanishk-03-Jain/testline-assignment/blob/main/image_assets/model_curve.png)
