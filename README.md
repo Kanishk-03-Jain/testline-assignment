@@ -25,6 +25,15 @@ Ensure you have Python installed (preferably Python 3.8+).
     ```sh
     Open testline.ipynb in Jupyter and run all cells.
     ```
+    or 
+    You can also run .py files for each task separately.
+    task1 is visualization of data. It is only inlcuded in jupyter notebook.
+    ```sh
+    python task2.py
+    python task3.py
+    python bonus_task1.py
+    python bonus_task2.py
+    ```
 
 ## Approach Description
 ### **1. Data Processing**
