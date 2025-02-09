@@ -38,20 +38,23 @@ Ensure you have Python installed (preferably Python 3.8+).
 2. Data Analysis & Trends
 - Topic-Wise Analysis: Generates bar plots for total, correct, and incorrect answers.
     ![body_fluids_circulations](https://github.com/Kanishk-03-Jain/testline-assignment/blob/main/body_fluids_circulations.png)
+    ![microbes_in_human_welfare](https://github.com/Kanishk-03-Jain/testline-assignment/blob/main/microbes_in_human_welfare.png)
+    ![reproductive_health](https://github.com/Kanishk-03-Jain/testline-assignment/blob/main/reproductive_health.png)
 - Difficulty-Level Performance: Visualizes trends for different difficulty levels.
-
+    ![difficulty_level_trend](https://github.com/Kanishk-03-Jain/testline-assignment/blob/main/difficulty_level.png)
 - Accuracy vs. Quiz ID: Chronologically plots student accuracy across quizzes.
-Performance Sorting: Ensures quiz history is sorted by timestamp.
-3️⃣ Personalized Insights & Recommendations
-Identifies weak areas based on incorrect answers.
-Detects improvement trends (consistency, accuracy changes).
-Defines student persona (e.g., "Concept Master", "Inconsistent Learner", "Speedster").
-Generates AI-powered suggestions for topic focus, question types, and study strategies.
-Future Enhancements
-🔹 Adaptive Learning Paths – Suggest personalized study plans.
-🔹 Question-Type Analysis – Evaluate MCQs vs. theoretical questions.
-🔹 Time-Efficiency Insights – Identify speed improvements.
-🔹 Gamification – Reward students for progress.
+    ![accuracy_vs_quiz_id](https://github.com/Kanishk-03-Jain/testline-assignment/blob/main/accuracy_curve.png)
+- Performance Sorting: Ensures quiz history is sorted by timestamp.
+3. Personalized Insights & Recommendations
+- Identifies weak areas based on incorrect answers.
+- Detects improvement trends (consistency, accuracy changes).
+- Defines student persona (e.g., "Concept Master", "Inconsistent Learner", "Speedster").
+- Generates AI-powered suggestions for topic focus, question types, and study strategies.
+# Future Enhancements
+- Adaptive Learning Paths – Suggest personalized study plans.
+- Question-Type Analysis – Evaluate MCQs vs. theoretical questions.
+- Time-Efficiency Insights – Identify speed improvements.
+- Gamification – Reward students for progress.
 
-🚀 Contributors: Your Name
-📧 Contact: Your Email
+🚀 Contributors: Kanishk Jain
+📧 Contact: kanishkjain03082005@gmail.com
