@@ -39,15 +39,15 @@ Ensure you have Python installed (preferably Python 3.8+).
 
  ### **2. Task 1 - Data Analysis & Trends**
 - **Topic-Wise Analysis:** Generates bar plots for total, correct, and incorrect answers.
-    ![body_fluids_circulations](https://github.com/Kanishk-03-Jain/testline-assignment/blob/main/image_assests/body_fluids_circulations.png)
-    ![microbes_in_human_welfare](https://github.com/Kanishk-03-Jain/testline-assignment/blob/main/image_assests/microbes_in_human_welfare.png)
-    ![reproductive_health](https://github.com/Kanishk-03-Jain/testline-assignment/blob/main/image_assests/reproductive_health.png)
+    ![body_fluids_circulations](https://github.com/Kanishk-03-Jain/testline-assignment/blob/main/image_assets/body_fluids_circulations.png)
+    ![microbes_in_human_welfare](https://github.com/Kanishk-03-Jain/testline-assignment/blob/main/image_assets/microbes_in_human_welfare.png)
+    ![reproductive_health](https://github.com/Kanishk-03-Jain/testline-assignment/blob/main/image_assets/reproductive_health.png)
 
 - **Difficulty-Level Performance:** Visualizes trends for different difficulty levels.
-    ![difficulty_level_trend](https://github.com/Kanishk-03-Jain/testline-assignment/blob/main/image_assests/difficulty_level.png)
+    ![difficulty_level_trend](https://github.com/Kanishk-03-Jain/testline-assignment/blob/main/image_assets/difficulty_level.png)
 
 - **Accuracy vs. Quiz ID:** Chronologically plots student accuracy across quizzes.
-    ![accuracy_vs_quiz_id](https://github.com/Kanishk-03-Jain/testline-assignment/blob/main/image_assests/accuracy_curve.png)
+    ![accuracy_vs_quiz_id](https://github.com/Kanishk-03-Jain/testline-assignment/blob/main/image_assets/accuracy_curve.png)
 
 ### **3. Task 2 - Generate Insights:**
 - **Weak Area Identification**:
@@ -122,7 +122,7 @@ This step predicts a student’s potential NEET rank using machine learning.
     Root Mean Squared Error (RMSE): 80.95382506610757
 ```
 
-![model_curve](https://github.com/Kanishk-03-Jain/testline-assignment/blob/main/image_assests/model_curve.png)
+![model_curve](https://github.com/Kanishk-03-Jain/testline-assignment/blob/main/image_assets/model_curve.png)
 
 ## Future Enhancements
 - Adaptive Learning Paths – Suggest personalized study plans.
