@@ -37,7 +37,7 @@ Ensure you have Python installed (preferably Python 3.8+).
 - Stores difficulty-wise statistics.
 2. Data Analysis & Trends
 - Topic-Wise Analysis: Generates bar plots for total, correct, and incorrect answers.
-
+    ![body_fluids_circulations](https://github.com/Kanishk-03-Jain/testline-assignment/blob/main/body_fluids_circulations.png)
 - Difficulty-Level Performance: Visualizes trends for different difficulty levels.
 
 - Accuracy vs. Quiz ID: Chronologically plots student accuracy across quizzes.
